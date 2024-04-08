@@ -36,7 +36,8 @@ Occassion
 
 
 Predicted Dress
-![Uploading Screenshot 2024-04-08 162206.png…]()
+![Screenshot 2024-04-08 162206](https://github.com/fathimaCode/skin_tone_dress_recommendation/assets/142009811/99cbb8eb-b8e7-423f-b12b-279186a52951)
+
 
 
 
